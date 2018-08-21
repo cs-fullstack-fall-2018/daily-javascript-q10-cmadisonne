@@ -9,4 +9,4 @@ Choose the correct answer
 3) const $studentCount = 34;
 4) var 98_382_grades = [];
 
-WRITE YOUR ANSWER HERE
+My Answer is 3.
